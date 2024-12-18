@@ -1,5 +1,4 @@
 # BabyLE-Alert-System - <ins>BM</ins> / [EN]()
-# HeMeIn - <ins>BM</ins> / EN
 BabyLE-Alert-System merupakan suatu produk penggera keselamatan untuk ibu bapa dan penjaga untuk memberitahu mereka bahawa anak mereka masih berada di dalam kereta. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini]()
 
 
@@ -29,7 +28,7 @@ Selain itu, bekas pemegang untuk seluruh projek ini dicetak 3D dengan menggunaka
 
 #### Skematik 3D
 
-Boleh rujuk kepada fail 3D [dibawah]()
+Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 
 ## Fail projek
