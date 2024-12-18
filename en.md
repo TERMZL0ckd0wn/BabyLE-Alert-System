@@ -28,8 +28,15 @@ You can refer to the 3D files [below](#project-files).
 
 ## Project Files  
 
-**Programming files** can be downloaded by clicking `Code` > `Download ZIP`, unzipping the file, and opening the `.ino` file using Arduino IDE or other text editors (e.g., Notepad).  
-PS: For the English version, open the folder `BabyLE-Alert-SystemEN`. For the Bahasa Melayu version, open the folder `BabyLE-Alert-SystemBM`.  
+**Programming files** can be downloaded by clicking `Code` > `Download ZIP`, unzipping the file, and opening the `.ino` file using Arduino IDE or other text editors and open the `.aia` file using `MIT App Inventor 2`. Below are the files for the respected microcontrollers.
+
+>[!NOTE]
+>Make sure that you have added the ESP32-Dev-Module board to your Arduino IDE. Click [here]() on how to setup the ESP32-Dev-Module for programming it.
+
+| Language \ Board | Arduino UNO           | ESP32-Dev-Module      |
+|------------------|-----------------------|-----------------------|
+| English          |`en/BabyLEServerP1.ino`|`en/BabyLEServerP2.ino`|
+| Bahasa Melayu    |`bm/PelayanBabyLE1.ino`|`bm/PelayanBabyLE2.ino`|
 
 **3D files** can be downloaded [here](https://www.tinkercad.com/things/3i5M5UjBUuJ-babyle-chassis?sharecode=Ue4fAh5s0u5_pD5XAqprCQIRZJj594lQXY0AG3sZKic).  
 
