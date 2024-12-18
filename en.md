@@ -31,7 +31,7 @@ You can refer to the 3D files [below](#project-files).
 **Programming files** can be downloaded by clicking `Code` > `Download ZIP`, unzipping the file, and opening the `.ino` file using Arduino IDE or other text editors (e.g., Notepad).  
 PS: For the English version, open the folder `BabyLE-Alert-SystemEN`. For the Bahasa Melayu version, open the folder `BabyLE-Alert-SystemBM`.  
 
-**3D files** can be downloaded [here]().  
+**3D files** can be downloaded [here](https://www.tinkercad.com/things/3i5M5UjBUuJ-babyle-chassis?sharecode=Ue4fAh5s0u5_pD5XAqprCQIRZJj594lQXY0AG3sZKic).  
 
 ## Troubleshooting  
 
