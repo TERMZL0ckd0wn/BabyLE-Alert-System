@@ -33,7 +33,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 ## Fail projek
 
-**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.ino` dengan Arduino IDE atau pengedit teks yang lain (seperti Notepad). PS: Untuk Bahasa Melayu, Buka folder ` BabyLE-Alert-SystemBM` untuk pengaturcaraan. Tetapi untuk English, buka folder ` BabyLE-Alert-SystemEN`.
+**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.aia` dengan `MIT App Inventor 2` dan file `.ino` dengan Arduino IDE atau pengedit teks yang lain. Fail `.aia` ini adalah aplikasi yang perlu di-_Compile_ untuk menjadi aplikasi yang berfungsi. Fail ``
 
 **Fail 3D** boleh dimuat turun di [sini](https://www.tinkercad.com/things/3i5M5UjBUuJ-babyle-chassis?sharecode=Ue4fAh5s0u5_pD5XAqprCQIRZJj594lQXY0AG3sZKic)
 
@@ -43,7 +43,7 @@ Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** bole
 
 ## Lesen
 
-- **Pengaturcaraan (fail `.ino` Arduino)**: Lesen bawah "MIT License".
+- **Pengaturcaraan (fail `.ino` Arduino & fail `.aia` MIT AppInventor2)**: Lesen bawah "MIT License".
 - **Skematik litar, fail 3D dan dokumentasi**: Lesen bawah "Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)".
 
 Lihat file [`LICENSE_BM`](https://github.com/TERMZL0ckd0wn/BabyLE-Alert-System/blob/main/LICENSE_BM) untuk teks lesen yang terperinci.
