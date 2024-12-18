@@ -35,7 +35,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 **Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.ino` dengan Arduino IDE atau pengedit teks yang lain (seperti Notepad). PS: Untuk Bahasa Melayu, Buka folder ` BabyLE-Alert-SystemBM` untuk pengaturcaraan. Tetapi untuk English, buka folder ` BabyLE-Alert-SystemEN`.
 
-**Fail 3D** boleh dimuat turun di [sini]()
+**Fail 3D** boleh dimuat turun di [sini](https://www.tinkercad.com/things/3i5M5UjBUuJ-babyle-chassis?sharecode=Ue4fAh5s0u5_pD5XAqprCQIRZJj594lQXY0AG3sZKic)
 
 ## Bantuan masalah
 
