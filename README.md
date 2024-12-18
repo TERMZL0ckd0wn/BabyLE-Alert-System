@@ -1,4 +1,4 @@
-# BabyLE-Alert-System - <ins>BM</ins> / [EN]()
+# BabyLE-Alert-System - <ins>BM</ins> / [EN](https://github.com/TERMZL0ckd0wn/BabyLE-Alert-System/blob/main/en.md)
 BabyLE-Alert-System merupakan suatu produk penggera keselamatan untuk ibu bapa dan penjaga untuk memberitahu mereka bahawa anak mereka masih berada di dalam kereta. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini](#lesen)
 
 
@@ -39,7 +39,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 ## Bantuan masalah
 
-Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/HeMeIn/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
+Sila e-mel saya di termzl0ckd0wn@termz.eu.org untuk bantuan lanjut **atau** boleh pergi ke [**pusat isu repositori**](https://github.com/TERMZL0ckd0wn/BabyLE-Alert-System/issues) untuk mendapatkan bantuan sambil kongsikan cara penyelesaian masalah kepada pengguna lain
 
 ## Lesen
 
