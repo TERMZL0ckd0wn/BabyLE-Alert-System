@@ -33,7 +33,15 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 ## Fail projek
 
-**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.aia` dengan `MIT App Inventor 2` dan file `.ino` dengan Arduino IDE atau pengedit teks yang lain. Fail `.aia` ini adalah aplikasi yang perlu di-_Compile_ untuk menjadi aplikasi yang berfungsi. Fail ``
+**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.aia` dengan `MIT App Inventor 2` dan file `.ino` dengan Arduino IDE atau pengedit teks yang lain. Berikut adalah file untuk papan mikropengawal tertentu.
+
+>[!NOTE]
+>Pastikan anda telah tambah papan ESP32-Dev-Module dalam Arduino IDE. Klik [disini]() untuk cara untuk pasang papan tersebut ke dalam Arduino IDE.
+
+| Language \ Board | Arduino UNO           | ESP32-Dev-Module      |
+|------------------|-----------------------|-----------------------|
+| English          |`en/BabyLEServerP1.ino`|`en/BabyLEServerP2.ino`|
+| Bahasa Melayu    |`bm/PelayanBabyLE1.ino`|`bm/PelayanBabyLE2.ino`|
 
 **Fail 3D** boleh dimuat turun di [sini](https://www.tinkercad.com/things/3i5M5UjBUuJ-babyle-chassis?sharecode=Ue4fAh5s0u5_pD5XAqprCQIRZJj594lQXY0AG3sZKic)
 
