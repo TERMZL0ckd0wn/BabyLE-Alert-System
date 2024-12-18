@@ -1,5 +1,5 @@
 # BabyLE-Alert-System - <ins>BM</ins> / [EN]()
-BabyLE-Alert-System merupakan suatu produk penggera keselamatan untuk ibu bapa dan penjaga untuk memberitahu mereka bahawa anak mereka masih berada di dalam kereta. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini]()
+BabyLE-Alert-System merupakan suatu produk penggera keselamatan untuk ibu bapa dan penjaga untuk memberitahu mereka bahawa anak mereka masih berada di dalam kereta. Projek ini menggunakan lesen-lesen tertentu, lesen-lesen yang digunakan ada di [sini](#lesen)
 
 
 ## Penerangan Terperinci
