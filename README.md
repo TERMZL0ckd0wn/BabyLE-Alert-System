@@ -33,15 +33,19 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 
 ## Fail projek
 
-**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.aia` dengan `MIT App Inventor 2` dan file `.ino` dengan Arduino IDE atau pengedit teks yang lain. Berikut adalah file untuk papan mikropengawal tertentu.
+**Fail pengaturcaraan** boleh dimuat turun diatas dengan menekan `Code`>`Download ZIP` dan _unzip_ fail tersebut lalu membuka fail `.aia` dengan [`MIT App Inventor 2`](https://ai2.appinventor.mit.edu). Anda dibenarkan untuk mengubah suaikan pengaturcaraan jika perlu. Jika mahu mendapatkan aplikasi tersebut, diatas `MIT App Inventor 2` setelah membuka projek `BabyLEcompanion`, tekan `Build`>`Android App (.apk)`.
+Setelah download, pindahkan fail .apk tersebut dan pasang aplikasi terserbut di telefon Android sahaja.
 
->[!NOTE]
->Pastikan anda telah tambah papan ESP32-Dev-Module dalam Arduino IDE. Klik [disini]() untuk cara untuk pasang papan tersebut ke dalam Arduino IDE.
+>[!WARNING]
+>Aplikasi ini hanya boleh berfungsi di Android 10 kebawah sahaja kerana BluetoothLE plugin yang digunakan tidak mengikut format SDK Android terkini. Jika ada pembetulan tentang masalah ini, sila [e-mel saya](#bantuan-masalah).
 
 | Language \ Board | Arduino UNO            | ESP32-Dev-Module       |
 |------------------|------------------------|------------------------|
 | English          |`en/BLEASp1/BLEASp1.ino`|`en/BLEASp2/BLEASp2.ino`|
 | Bahasa Melayu    |`bm/BLEASp1/BLEASp1.ino`|`bm/BLEASp2/BLEASp2.ino`|
+
+>[!NOTE]
+>Pastikan anda telah tambah papan ESP32-Dev-Module dalam Arduino IDE. Klik [disini]() untuk cara untuk pasang papan tersebut ke dalam Arduino IDE.
 
 >[!NOTE]
 >Jika mahu cetak 3D bekas pemegang tersebut, perlulah _slice_ dahulu menggunakan _slicer_ (contohnya Ultimaker Cura).
