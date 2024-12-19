@@ -11,7 +11,7 @@ BabyLE-Alert-System merupakan suatu produk yang bertujuan untuk memperingati ibu
 
 1. Suis
 2. Wayar
-3. Breadbord
+3. _Breadboard_
 
 **Senarai barangan elektronik :**
 
