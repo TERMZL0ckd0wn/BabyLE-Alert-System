@@ -37,7 +37,7 @@ Boleh rujuk kepada fail 3D [dibawah](#fail-projek)
 Setelah download, pindahkan fail .apk tersebut dan pasang aplikasi terserbut di telefon Android sahaja.
 
 >[!WARNING]
->Aplikasi ini hanya boleh berfungsi di Android 10 kebawah sahaja kerana BluetoothLE plugin yang digunakan tidak mengikut format SDK Android terkini. Jika ada pembetulan tentang masalah ini, sila [e-mel saya](#bantuan-masalah).
+>Aplikasi ini hanya boleh berfungsi pada Android 10 kebawah sahaja kerana BluetoothLE plugin yang digunakan tidak mengikut format SDK Android terkini. Jika ada pembetulan tentang masalah ini, sila [e-mel saya](#bantuan-masalah).
 
 | Language \ Board | Arduino UNO            | ESP32-Dev-Module       |
 |------------------|------------------------|------------------------|
